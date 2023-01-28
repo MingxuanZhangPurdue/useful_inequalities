@@ -1,4 +1,4 @@
-# useful_inequalities
+# Inequalities
 
 
 * [Markov’s Inequality](https://en.wikipedia.org/wiki/Markov's_inequality)
